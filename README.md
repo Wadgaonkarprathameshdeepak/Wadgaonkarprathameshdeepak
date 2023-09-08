@@ -19,12 +19,11 @@
   </a>
 </div>
 
-  <h1 
-  text-align: center;
->
+<h1 text-align: center;">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 
 - 🔭 I’m currently working on Front End and Data structures and Algorithms along with core cs fundamentals..
 - 📫 How to reach me: https://linktr.ee/PrathameshWadgaonkar
