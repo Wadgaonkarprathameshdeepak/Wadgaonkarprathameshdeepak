@@ -13,14 +13,16 @@
   <a href="https://www.linkedin.com/in/prathamesh-wadgaonkar-8b3189238/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
   <a href="https://twitter.com/Prathamesh69713">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 - 🔭 I’m currently working on Front End and Data structures and Algorithms along with core cs fundamentals..
 - 📫 How to reach me: https://linktr.ee/PrathameshWadgaonkar
