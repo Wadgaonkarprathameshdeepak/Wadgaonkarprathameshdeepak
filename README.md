@@ -28,6 +28,7 @@
 - 🔭 I’m currently working on Front End and Data structures and Algorithms along with core cs fundamentals..
 - 📫 How to reach me: https://linktr.ee/PrathameshWadgaonkar
 
+🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
