@@ -63,8 +63,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-wadgaonkar-8b3189238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayuri-kolhe-538883193" height="30" width="40" /></a>
 
 <a href="https://twitter.com/your_twitter_username" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="your_twitter_username" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" height="30" width="40" />
 </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
