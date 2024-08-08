@@ -43,7 +43,9 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Prathamesh Wadgaonkar</h1>
+<h1 align="center">Hi   hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+, I'm Prathamesh Wadgaonkar</h1>
 <h3 align="center">A Passionate Programmer and Aspiring Software Engineer. I am a Full Stack Development Enthusiast</h3>
 
 - 🌱 I’m currently learning **Full stack development and Problem Solving . **
