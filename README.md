@@ -3,6 +3,9 @@
 <h1 align="center">Hi 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 , I'm Prathamesh Wadgaonkar..!!!</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h3 align="center">A Passionate Programmer and Aspiring Software Engineer. I am a Full Stack Development Enthusiast</h3>
 
 - 🌱 I’m currently learning **Full stack development and Problem Solving.**
