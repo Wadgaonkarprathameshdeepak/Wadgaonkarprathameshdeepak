@@ -43,22 +43,22 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Mayuri Kolhe</h1>
-<h3 align="center">A passionate web developer from India . Blockchain Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Prathamesh Wadgaonkar</h1>
+<h3 align="center">A Passionate Programmer and Aspiring Software Engineer. I am a Full Stack Development Enthusiast</h3>
 
 - 🌱 I’m currently learning **Full stack development and Problem Solving . **
 
 - 👯 I’m looking to collaborate on **Frontend projects and web development projects.**
 
-- 💬 Ask me about **Frontend,react,php.,Node.js**
+- 💬 Ask me about **Frontend,react,MySql,Node.js**
 
-- 📫 How to reach me **kolhem10@gmail.com**
+- 📫 How to reach me **wadgaonkarprathamesh@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1G8NYhfUm_tB-mlnsf2k-TU0OKG15FIO5/view?usp=drive_link)
+- 📄 My Resume [https://drive.google.com/file/d/1tcX8OJJFXv4NmIVMG3HB_sxOur20_3RF/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayuri-kolhe-538883193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayuri-kolhe-538883193" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-wadgaonkar-8b3189238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayuri-kolhe-538883193" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
