@@ -1,4 +1,3 @@
-### Hi there 👋 I am Prathamesh Wadgaonkar..!!
 
 
 <h1 align="center">Hi 
